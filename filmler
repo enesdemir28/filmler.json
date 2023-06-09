@@ -1,38 +1,32 @@
 [
   {
-  
     "title": "Dark Knight",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/batman.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/batman.PNG",
     "description": "Batman: The Dark Knight, yönetmenliğini Christopher Nolan'ın yaptığı 2008 yapımı bir süper kahraman filmidir."
   },
   {
-
     "title": "Godfather",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/godfather.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/godfather.PNG",
     "description": "The Godfather, Francis Ford Coppola'nın yönettiği ve Mario Puzo tarafından yazılan aynı adlı romana dayanan bir suç filmidir."
   },
   {
-  
     "title": "Soysuzlar Çetesi",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/sosuz.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/sosuz.PNG",
     "description": "Soysuzlar Çetesi, Quentin Tarantino'nun yazdığı ve yönettiği bir suç filmidir. Film, 1969 Los Angeles'ında geçmektedir."
   },
   {
- 
     "title": "Django",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/django.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/django.PNG",
     "description": "Django, Quentin Tarantino tarafından yazılan ve yönetilen bir Western filmidir. Film, Amerikan İç Savaşı döneminde geçmektedir."
   },
   {
-  
     "title": "Pardon",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/pardon.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/pardon.PNG",
     "description": "Pardon, Türk komedi filmidir. Film, hapishaneden kaçan bir grup mahkumun maceralarını konu almaktadır."
   },
   {
-    
     "title": "Nobody",
-    "image": "https://github.com/enesdemir28/filmler.json/blob/main/nobody.PNG",
+    "image": "https://github.com/enesdemir28/filmler.json/raw/main/nobody.PNG",
     "description": "Nobody, Bob Odenkirk'ün başrolünde olduğu bir aksiyon filmidir. Film, emekli bir ajanın intikam hikayesini anlatmaktadır."
   }
 ]
