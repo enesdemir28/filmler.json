@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Knight",
+    "image": "https://example.com/dark_knight.jpg",
+    "description": "Batman: The Dark Knight, yönetmenliğini Christopher Nolan'ın yaptığı 2008 yapımı bir süper kahraman filmidir."
+  },
+  {
+    "id": 2,
+    "title": "Godfather",
+    "image": "https://example.com/godfather.jpg",
+    "description": "The Godfather, Francis Ford Coppola'nın yönettiği ve Mario Puzo tarafından yazılan aynı adlı romana dayanan bir suç filmidir."
+  },
+  {
+    "id": 3,
+    "title": "Soysuzlar Çetesi",
+    "image": "https://example.com/soysuzlar_cetesi.jpg",
+    "description": "Soysuzlar Çetesi, Quentin Tarantino'nun yazdığı ve yönettiği bir suç filmidir. Film, 1969 Los Angeles'ında geçmektedir."
+  },
+  {
+    "id": 4,
+    "title": "Django",
+    "image": "https://example.com/django.jpg",
+    "description": "Django, Quentin Tarantino tarafından yazılan ve yönetilen bir Western filmidir. Film, Amerikan İç Savaşı döneminde geçmektedir."
+  },
+  {
+    "id": 5,
+    "title": "Pardon",
+    "image": "https://example.com/pardon.jpg",
+    "description": "Pardon, Türk komedi filmidir. Film, hapishaneden kaçan bir grup mahkumun maceralarını konu almaktadır."
+  },
+  {
+    "id": 6,
+    "title": "Nobody",
+    "image": "https://example.com/nobody.jpg",
+    "description": "Nobody, Bob Odenkirk'ün başrolünde olduğu bir aksiyon filmidir. Film, emekli bir ajanın intikam hikayesini anlatmaktadır."
+  }
+]
